@@ -51,3 +51,7 @@ See the man page for details.
 
 slstatus can be customized by creating a custom config.h and (re)compiling the
 source code. This keeps it fast, secure and simple.
+<br>
+![gscreenshot_2023-01-15-110840](https://user-images.githubusercontent.com/93041325/212524484-e6458b6c-8263-4a03-a4ef-d84e13237e8a.png)
+
+
